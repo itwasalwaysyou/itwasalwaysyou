@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-aspiring software engineer and full-stack developer |  Actively Seeking Full-time roles & Fall Co-op / intern 
+aspiring software engineer and full-stack developer |  Actively Seeking Full-time roles & Fall Co-op / intern  👩🏻‍💻 
 
 Operating Systems: Linux, Windows 
 
