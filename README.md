@@ -7,6 +7,6 @@ Operating Systems: Linux, Windows
 
 Coding: Java | Python (Sklearn, Numpy, Pandas) | C# | C++ | MySQL | R | OCaml 
 
-web: React | JavaScript (Jquery) | HTML | CSS | Node.js 
+web: ReactJS | JavaScript (Jquery) | HTML | CSS | Node.js 
 
 Design tools: Figma | Photoshop | Illustrator 
