@@ -3,4 +3,4 @@
 
 CS Senior student @University of Minnesota
 
-👥 working in the Knowledge Computing Lab
+👥 working at the Knowledge Computing Lab
