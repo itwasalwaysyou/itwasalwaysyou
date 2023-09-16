@@ -1,6 +1,6 @@
 ### Hi There 👋
 
 
-Senior student @University of Minnesota majoring in computer science
+CS Senior student @University of Minnesota
 
 👥 working in the Knowledge Computing Lab
